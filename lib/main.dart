@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:bloc/bloc.dart';
 import 'dart:math' as math show Random;
 
+// step 1
 void main() {
   runApp(
     MaterialApp(
